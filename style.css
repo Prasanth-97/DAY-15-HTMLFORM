@@ -1,0 +1,12 @@
+*{
+    box-sizing: inherit;
+    
+}
+body{
+    background-image: url(./img3.jpg);
+    background-size:cover;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
